@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+.logen {background-color: #FFF; width: 100%; height: 320px; border-radius: 15px; width: 400px; box-shadow: 0px 2px 2px 3px #cccc; padding: 20px;}
+
+
+
+.field{outline: none; border-radius: 5px; margin-bottom: 15px; display: flex;  width: 300px; margin-left: auto; margin-right: auto;}
+
+.field span{color: white; width: 40px; line-height: 45px; text-align: center;}
+
+.field input{height: 45px; font-size: 1.1rem; padding: 5px; width: 300px; border-radius: 5px;}
+
+.forgot-password {margin-top: 9px;}
+ 
+.forgot-password a{color:rgb(18, 190, 190); text-decoration: none; text-shadow: 0px 1px 0px rgb(0, 89, 255); padding-left: 120px; text-shadow: 0px 0.5px 0px black; }
+
+.forgot-password a:hover{ text-decoration: underline;}
+
+.submit{display: flex; justify-content: center; height: 45px;  font-family: Arial, Helvetica, sans-serif; font-size: 1.2rem; color: #fff; background-color: rgb(241, 10, 10) ; border: 1px solid rgb(196, 12, 12); border-radius: 5px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: italic; font-weight: 500; text-shadow: 2px 2px 2px black; width: 300px; margin-left: auto; margin-right: auto;}
+
+.submit:hover{cursor: pointer; background-color: rgba(255, 6, 6, 0.904); color: white;}
+
+.new{display: flex; justify-content: center; height: 45px;  font-family: Arial, Helvetica, sans-serif; font-size: 1.2rem; color: #fff; background-color: rgb(4, 160, 4); ; border: 1px solid rgb(0, 128, 255); border-radius: 5px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: italic; font-weight: 500; text-shadow: 2px 2px 2px black; width: 300px; margin-left: auto; margin-right: auto;}
+
+.container {margin-top: 230px;}
+
+.new:hover {cursor: pointer; background-color: green;  color: white;}
+
+h4 {font-style: italic; text-shadow: 0px 0.5px 0px #FF0000;}
